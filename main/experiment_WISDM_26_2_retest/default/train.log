@@ -1,0 +1,23 @@
+Epoch: [99][1/2]	Time  0.608 ( 0.609)	Data  0.007 ( 0.007)	Loss Source 9.1428e+00 (9.1494e+00)	Acc@1   0.00 (  0.00)	Loss Target 9.1077e+00 (9.1287e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 9.1077e+00 (9.1287e+00)	Acc@1   0.00 (  1.70)	Loss Sour-Tar Disc 6.9303e-01 (6.9314e-01)	Acc@1   0.53 (  0.50)	Loss Pred 1.7061e+00 (1.7698e+00)	Macro F1   0.09 (  0.05)	Loss TOTAL 5.1882e+00 (5.2536e+00)
+VALIDATION RESULTS
+Epoch: [99][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 9.0629e+00 (9.0629e+00)	Acc@1   0.00 (  0.00)	Loss Target 9.0722e+00 (9.0722e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 9.0722e+00 (9.0722e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar Disc 6.9283e-01 (6.9283e-01)	Acc@1   0.60 (  0.60)	Loss Pred 1.7096e+00 (1.7096e+00)	Macro F1   0.08 (  0.08)	Loss TOTAL 4.9537e+00 (4.9537e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.3415 
+Macro F1 score is : 0.0848 
+Weighted F1 score is : 0.1738 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3171 
+Macro F1 score is : 0.0802 
+Weighted F1 score is : 0.1527 
+Epoch: [199][1/2]	Time  0.694 ( 0.631)	Data  0.007 ( 0.007)	Loss Source 8.8727e+00 (9.0011e+00)	Acc@1   0.00 (  0.02)	Loss Target 8.9075e+00 (9.0035e+00)	Acc@1   0.00 (  0.05)	Loss Sour-Tar CL 8.9075e+00 (9.0035e+00)	Acc@1   2.34 (  2.29)	Loss Sour-Tar Disc 6.9312e-01 (6.9314e-01)	Acc@1   0.52 (  0.50)	Loss Pred 1.5914e+00 (1.6418e+00)	Macro F1   0.08 (  0.09)	Loss TOTAL 5.0136e+00 (5.0927e+00)
+VALIDATION RESULTS
+Epoch: [199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 8.8469e+00 (8.8469e+00)	Acc@1   0.00 (  0.00)	Loss Target 8.8545e+00 (8.8545e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 8.8545e+00 (8.8545e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar Disc 6.9269e-01 (6.9269e-01)	Acc@1   0.55 (  0.55)	Loss Pred 1.6015e+00 (1.6015e+00)	Macro F1   0.08 (  0.08)	Loss TOTAL 4.7939e+00 (4.7939e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.3415 
+Macro F1 score is : 0.0848 
+Weighted F1 score is : 0.1738 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3171 
+Macro F1 score is : 0.0802 
+Weighted F1 score is : 0.1527 

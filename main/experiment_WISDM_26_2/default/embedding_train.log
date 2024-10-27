@@ -1,0 +1,9 @@
+Target embeddings are calculated
+TARGET RESULTS
+loaded from ../processed_datasets/WISDM
+
+embeddings are calculated
+SOURCE RESULTS
+loaded from ../processed_datasets/WISDM
+
+All embeddings are saved to experiment_WISDM_26_2/embedding_26_2.npz

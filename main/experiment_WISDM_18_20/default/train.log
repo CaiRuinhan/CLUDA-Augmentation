@@ -1,0 +1,565 @@
+Epoch: [99][1/2]	Time  0.565 ( 0.572)	Data  0.006 ( 0.007)	Loss Source 9.1379e+00 (9.1493e+00)	Acc@1   0.00 (  0.00)	Loss Target 9.1045e+00 (9.1277e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 9.1045e+00 (9.1277e+00)	Acc@1   3.12 (  1.76)	Loss Sour-Tar Disc 6.9304e-01 (6.9316e-01)	Acc@1   0.52 (  0.50)	Loss Pred 1.6826e+00 (1.7612e+00)	Macro F1   0.10 (  0.05)	Loss TOTAL 5.1633e+00 (5.2446e+00)
+VALIDATION RESULTS
+Epoch: [99][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 9.0627e+00 (9.0627e+00)	Acc@1   0.00 (  0.00)	Loss Target 9.0565e+00 (9.0565e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 9.0565e+00 (9.0565e+00)	Acc@1  19.51 ( 19.51)	Loss Sour-Tar Disc 6.9276e-01 (6.9276e-01)	Acc@1   0.57 (  0.57)	Loss Pred 1.6888e+00 (1.6888e+00)	Macro F1   0.09 (  0.09)	Loss TOTAL 4.9810e+00 (4.9810e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.3585 
+Macro F1 score is : 0.0880 
+Weighted F1 score is : 0.1892 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.2683 
+Macro F1 score is : 0.0705 
+Weighted F1 score is : 0.1135 
+Epoch: [199][1/2]	Time  0.566 ( 0.567)	Data  0.007 ( 0.006)	Loss Source 8.8563e+00 (9.0087e+00)	Acc@1   0.00 (  0.03)	Loss Target 8.8404e+00 (9.0111e+00)	Acc@1   0.00 (  0.03)	Loss Sour-Tar CL 8.8404e+00 (9.0111e+00)	Acc@1   3.12 (  2.23)	Loss Sour-Tar Disc 6.9305e-01 (6.9314e-01)	Acc@1   0.50 (  0.50)	Loss Pred 1.5321e+00 (1.6088e+00)	Macro F1   0.10 (  0.09)	Loss TOTAL 4.9454e+00 (5.0612e+00)
+VALIDATION RESULTS
+Epoch: [199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 8.8187e+00 (8.8187e+00)	Acc@1   0.00 (  0.00)	Loss Target 8.7992e+00 (8.7992e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 8.7992e+00 (8.7992e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar Disc 6.9262e-01 (6.9262e-01)	Acc@1   0.63 (  0.63)	Loss Pred 1.5545e+00 (1.5545e+00)	Macro F1   0.09 (  0.09)	Loss TOTAL 4.7863e+00 (4.7863e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.3585 
+Macro F1 score is : 0.0880 
+Weighted F1 score is : 0.1892 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.2683 
+Macro F1 score is : 0.0705 
+Weighted F1 score is : 0.1135 
+Epoch: [299][1/2]	Time  0.565 ( 0.575)	Data  0.006 ( 0.007)	Loss Source 8.6194e+00 (8.7214e+00)	Acc@1   0.00 (  0.13)	Loss Target 8.6147e+00 (8.7179e+00)	Acc@1   0.00 (  0.23)	Loss Sour-Tar CL 8.6147e+00 (8.7179e+00)	Acc@1   3.91 (  2.52)	Loss Sour-Tar Disc 6.9367e-01 (6.9315e-01)	Acc@1   0.46 (  0.50)	Loss Pred 1.4614e+00 (1.4906e+00)	Macro F1   0.21 (  0.12)	Loss TOTAL 4.8085e+00 (4.8715e+00)
+VALIDATION RESULTS
+Epoch: [299][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 8.5818e+00 (8.5818e+00)	Acc@1   0.00 (  0.00)	Loss Target 8.5434e+00 (8.5434e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 8.5434e+00 (8.5434e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar Disc 6.9241e-01 (6.9241e-01)	Acc@1   0.60 (  0.60)	Loss Pred 1.4745e+00 (1.4745e+00)	Macro F1   0.21 (  0.21)	Loss TOTAL 4.6304e+00 (4.6304e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.5472 
+Macro F1 score is : 0.2128 
+Weighted F1 score is : 0.4687 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3659 
+Macro F1 score is : 0.1488 
+Weighted F1 score is : 0.2744 
+Epoch: [399][1/2]	Time  0.565 ( 0.571)	Data  0.006 ( 0.006)	Loss Source 8.2540e+00 (8.4186e+00)	Acc@1   0.00 (  0.26)	Loss Target 8.4422e+00 (8.4369e+00)	Acc@1   0.00 (  0.24)	Loss Sour-Tar CL 8.4422e+00 (8.4369e+00)	Acc@1   5.47 (  4.42)	Loss Sour-Tar Disc 6.9292e-01 (6.9308e-01)	Acc@1   0.53 (  0.51)	Loss Pred 1.3682e+00 (1.4303e+00)	Macro F1   0.23 (  0.22)	Loss TOTAL 4.6065e+00 (4.7126e+00)
+VALIDATION RESULTS
+Epoch: [399][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 8.3144e+00 (8.3144e+00)	Acc@1   0.00 (  0.00)	Loss Target 8.1364e+00 (8.1364e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 8.1364e+00 (8.1364e+00)	Acc@1  19.51 ( 19.51)	Loss Sour-Tar Disc 6.9221e-01 (6.9221e-01)	Acc@1   0.61 (  0.61)	Loss Pred 1.4400e+00 (1.4400e+00)	Macro F1   0.24 (  0.24)	Loss TOTAL 4.4808e+00 (4.4808e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.6038 
+Macro F1 score is : 0.2361 
+Weighted F1 score is : 0.5204 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3659 
+Macro F1 score is : 0.1450 
+Weighted F1 score is : 0.2691 
+Epoch: [499][1/2]	Time  0.568 ( 0.567)	Data  0.006 ( 0.006)	Loss Source 7.9085e+00 (8.0552e+00)	Acc@1   0.00 (  0.38)	Loss Target 7.8611e+00 (8.1047e+00)	Acc@1   0.00 (  0.27)	Loss Sour-Tar CL 7.8611e+00 (8.1047e+00)	Acc@1  10.16 (  9.19)	Loss Sour-Tar Disc 6.9274e-01 (6.9274e-01)	Acc@1   0.55 (  0.53)	Loss Pred 1.4325e+00 (1.3945e+00)	Macro F1   0.21 (  0.22)	Loss TOTAL 4.5336e+00 (4.5577e+00)
+VALIDATION RESULTS
+Epoch: [499][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.8895e+00 (7.8895e+00)	Acc@1   0.00 (  0.00)	Loss Target 7.6389e+00 (7.6389e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 7.6389e+00 (7.6389e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.9134e-01 (6.9134e-01)	Acc@1   0.62 (  0.62)	Loss Pred 1.4126e+00 (1.4126e+00)	Macro F1   0.22 (  0.22)	Loss TOTAL 4.3143e+00 (4.3143e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.5660 
+Macro F1 score is : 0.2185 
+Weighted F1 score is : 0.4820 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3902 
+Macro F1 score is : 0.1574 
+Weighted F1 score is : 0.2900 
+Epoch: [599][1/2]	Time  0.573 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 7.6300e+00 (7.7294e+00)	Acc@1   0.00 (  0.50)	Loss Target 7.7986e+00 (7.8232e+00)	Acc@1   0.00 (  0.49)	Loss Sour-Tar CL 7.7986e+00 (7.8232e+00)	Acc@1  13.28 ( 15.11)	Loss Sour-Tar Disc 6.8882e-01 (6.9099e-01)	Acc@1   0.59 (  0.59)	Loss Pred 1.2519e+00 (1.3426e+00)	Macro F1   0.26 (  0.24)	Loss TOTAL 4.2698e+00 (4.3945e+00)
+VALIDATION RESULTS
+Epoch: [599][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.5684e+00 (7.5684e+00)	Acc@1   0.00 (  0.00)	Loss Target 7.7005e+00 (7.7005e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 7.7005e+00 (7.7005e+00)	Acc@1  36.59 ( 36.59)	Loss Sour-Tar Disc 6.8954e-01 (6.8954e-01)	Acc@1   0.56 (  0.56)	Loss Pred 1.3590e+00 (1.3590e+00)	Macro F1   0.23 (  0.23)	Loss TOTAL 4.2039e+00 (4.2039e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.5849 
+Macro F1 score is : 0.2251 
+Weighted F1 score is : 0.4969 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.3902 
+Macro F1 score is : 0.1561 
+Weighted F1 score is : 0.2905 
+Epoch: [699][1/2]	Time  0.566 ( 0.567)	Data  0.006 ( 0.006)	Loss Source 7.1757e+00 (7.4567e+00)	Acc@1   1.56 (  0.82)	Loss Target 7.5298e+00 (7.6389e+00)	Acc@1   0.78 (  0.69)	Loss Sour-Tar CL 7.5298e+00 (7.6389e+00)	Acc@1  23.44 ( 21.27)	Loss Sour-Tar Disc 6.7848e-01 (6.8494e-01)	Acc@1   0.70 (  0.63)	Loss Pred 1.2641e+00 (1.2407e+00)	Macro F1   0.26 (  0.26)	Loss TOTAL 4.1325e+00 (4.1876e+00)
+VALIDATION RESULTS
+Epoch: [699][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.2371e+00 (7.2371e+00)	Acc@1   1.89 (  1.89)	Loss Target 7.3045e+00 (7.3045e+00)	Acc@1   0.00 (  0.00)	Loss Sour-Tar CL 7.3045e+00 (7.3045e+00)	Acc@1  53.66 ( 53.66)	Loss Sour-Tar Disc 6.8369e-01 (6.8369e-01)	Acc@1   0.59 (  0.59)	Loss Pred 1.2406e+00 (1.2406e+00)	Macro F1   0.27 (  0.27)	Loss TOTAL 3.9464e+00 (3.9464e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.6981 
+Macro F1 score is : 0.2699 
+Weighted F1 score is : 0.5950 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.4146 
+Macro F1 score is : 0.1655 
+Weighted F1 score is : 0.3072 
+Epoch: [799][1/2]	Time  0.577 ( 0.569)	Data  0.007 ( 0.006)	Loss Source 7.2573e+00 (7.2934e+00)	Acc@1   0.00 (  0.89)	Loss Target 7.2132e+00 (7.3959e+00)	Acc@1   0.00 (  0.93)	Loss Sour-Tar CL 7.2132e+00 (7.3959e+00)	Acc@1  29.69 ( 26.03)	Loss Sour-Tar Disc 6.6310e-01 (6.7223e-01)	Acc@1   0.71 (  0.71)	Loss Pred 1.0929e+00 (1.1353e+00)	Macro F1   0.27 (  0.27)	Loss TOTAL 3.8802e+00 (3.9886e+00)
+VALIDATION RESULTS
+Epoch: [799][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.0657e+00 (7.0657e+00)	Acc@1   1.89 (  1.89)	Loss Target 7.1749e+00 (7.1749e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 7.1749e+00 (7.1749e+00)	Acc@1  43.90 ( 43.90)	Loss Sour-Tar Disc 6.7753e-01 (6.7753e-01)	Acc@1   0.65 (  0.65)	Loss Pred 1.1347e+00 (1.1347e+00)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.8085e+00 (3.8085e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2841 
+Weighted F1 score is : 0.6262 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.4634 
+Macro F1 score is : 0.1917 
+Weighted F1 score is : 0.3510 
+Epoch: [899][1/2]	Time  0.564 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 7.1773e+00 (7.2148e+00)	Acc@1   0.78 (  1.28)	Loss Target 7.1653e+00 (7.2009e+00)	Acc@1   1.56 (  1.26)	Loss Sour-Tar CL 7.1653e+00 (7.2009e+00)	Acc@1  35.16 ( 28.45)	Loss Sour-Tar Disc 6.5030e-01 (6.5645e-01)	Acc@1   0.74 (  0.73)	Loss Pred 9.9191e-01 (1.0401e+00)	Macro F1   0.28 (  0.27)	Loss TOTAL 3.7501e+00 (3.8261e+00)
+VALIDATION RESULTS
+Epoch: [899][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.0441e+00 (7.0441e+00)	Acc@1   0.00 (  0.00)	Loss Target 6.7440e+00 (6.7440e+00)	Acc@1   4.88 (  4.88)	Loss Sour-Tar CL 6.7440e+00 (6.7440e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.6105e-01 (6.6105e-01)	Acc@1   0.66 (  0.66)	Loss Pred 1.0428e+00 (1.0428e+00)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.6151e+00 (3.6151e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2826 
+Weighted F1 score is : 0.6243 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.4634 
+Macro F1 score is : 0.1917 
+Weighted F1 score is : 0.3510 
+Epoch: [999][1/2]	Time  0.568 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 7.1007e+00 (7.2105e+00)	Acc@1   0.00 (  1.07)	Loss Target 7.1729e+00 (7.1037e+00)	Acc@1   0.00 (  1.16)	Loss Sour-Tar CL 7.1729e+00 (7.1037e+00)	Acc@1  33.59 ( 30.88)	Loss Sour-Tar Disc 6.2459e-01 (6.3923e-01)	Acc@1   0.77 (  0.73)	Loss Pred 8.6773e-01 (9.4327e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.5782e+00 (3.6804e+00)
+VALIDATION RESULTS
+Epoch: [999][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 7.1634e+00 (7.1634e+00)	Acc@1   1.89 (  1.89)	Loss Target 6.6320e+00 (6.6320e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 6.6320e+00 (6.6320e+00)	Acc@1  41.46 ( 41.46)	Loss Sour-Tar Disc 6.4839e-01 (6.4839e-01)	Acc@1   0.67 (  0.67)	Loss Pred 9.7983e-01 (9.7983e-01)	Macro F1   0.26 (  0.26)	Loss TOTAL 3.4943e+00 (3.4943e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.6792 
+Macro F1 score is : 0.2609 
+Weighted F1 score is : 0.5767 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5122 
+Macro F1 score is : 0.2130 
+Weighted F1 score is : 0.3875 
+Epoch: [1099][1/2]	Time  0.574 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 7.1306e+00 (7.1675e+00)	Acc@1   0.78 (  0.83)	Loss Target 6.8375e+00 (7.0853e+00)	Acc@1   1.56 (  0.91)	Loss Sour-Tar CL 6.8375e+00 (7.0853e+00)	Acc@1  34.38 ( 30.77)	Loss Sour-Tar Disc 6.2442e-01 (6.2890e-01)	Acc@1   0.70 (  0.71)	Loss Pred 8.5941e-01 (8.7742e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.5007e+00 (3.5969e+00)
+VALIDATION RESULTS
+Epoch: [1099][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.5241e+00 (6.5241e+00)	Acc@1   7.55 (  7.55)	Loss Target 6.7921e+00 (6.7921e+00)	Acc@1   7.32 (  7.32)	Loss Sour-Tar CL 6.7921e+00 (6.7921e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.3993e-01 (6.3993e-01)	Acc@1   0.67 (  0.67)	Loss Pred 8.7373e-01 (8.7373e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.3885e+00 (3.3885e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2826 
+Weighted F1 score is : 0.6239 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5366 
+Macro F1 score is : 0.2222 
+Weighted F1 score is : 0.4065 
+Epoch: [1199][1/2]	Time  0.567 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 7.1045e+00 (7.1078e+00)	Acc@1   0.78 (  0.93)	Loss Target 6.9332e+00 (7.0180e+00)	Acc@1   0.00 (  0.91)	Loss Sour-Tar CL 6.9332e+00 (7.0180e+00)	Acc@1  27.34 ( 30.20)	Loss Sour-Tar Disc 6.1687e-01 (6.2440e-01)	Acc@1   0.71 (  0.70)	Loss Pred 7.5442e-01 (8.1803e-01)	Macro F1   0.29 (  0.28)	Loss TOTAL 3.4443e+00 (3.5159e+00)
+VALIDATION RESULTS
+Epoch: [1199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.7409e+00 (6.7409e+00)	Acc@1   1.89 (  1.89)	Loss Target 6.6157e+00 (6.6157e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar CL 6.6157e+00 (6.6157e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.3420e-01 (6.3420e-01)	Acc@1   0.65 (  0.65)	Loss Pred 7.8387e-01 (7.8387e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.2396e+00 (3.2396e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2826 
+Weighted F1 score is : 0.6239 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5122 
+Macro F1 score is : 0.2155 
+Weighted F1 score is : 0.3893 
+Epoch: [1299][1/2]	Time  0.567 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 7.0827e+00 (7.0590e+00)	Acc@1   0.00 (  0.84)	Loss Target 7.1237e+00 (6.9871e+00)	Acc@1   0.78 (  0.88)	Loss Sour-Tar CL 7.1237e+00 (6.9871e+00)	Acc@1  25.78 ( 29.28)	Loss Sour-Tar Disc 6.1979e-01 (6.2249e-01)	Acc@1   0.69 (  0.69)	Loss Pred 6.9756e-01 (7.5961e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.4112e+00 (3.4459e+00)
+VALIDATION RESULTS
+Epoch: [1299][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.9205e+00 (6.9205e+00)	Acc@1   7.55 (  7.55)	Loss Target 6.4490e+00 (6.4490e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar CL 6.4490e+00 (6.4490e+00)	Acc@1  60.98 ( 60.98)	Loss Sour-Tar Disc 6.4773e-01 (6.4773e-01)	Acc@1   0.63 (  0.63)	Loss Pred 8.1511e-01 (8.1511e-01)	Macro F1   0.27 (  0.27)	Loss TOTAL 3.2780e+00 (3.2780e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.6981 
+Macro F1 score is : 0.2683 
+Weighted F1 score is : 0.5921 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2345 
+Weighted F1 score is : 0.4250 
+Epoch: [1399][1/2]	Time  0.568 ( 0.570)	Data  0.007 ( 0.006)	Loss Source 6.8171e+00 (7.0029e+00)	Acc@1   0.78 (  0.87)	Loss Target 6.9429e+00 (6.9226e+00)	Acc@1   3.12 (  0.93)	Loss Sour-Tar CL 6.9429e+00 (6.9226e+00)	Acc@1  24.22 ( 29.48)	Loss Sour-Tar Disc 6.2163e-01 (6.2554e-01)	Acc@1   0.69 (  0.68)	Loss Pred 6.9903e-01 (7.2360e-01)	Macro F1   0.29 (  0.28)	Loss TOTAL 3.3683e+00 (3.3969e+00)
+VALIDATION RESULTS
+Epoch: [1399][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.7172e+00 (6.7172e+00)	Acc@1   5.66 (  5.66)	Loss Target 6.7183e+00 (6.7183e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar CL 6.7183e+00 (6.7183e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.4163e-01 (6.4163e-01)	Acc@1   0.59 (  0.59)	Loss Pred 7.3443e-01 (7.3443e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.2119e+00 (3.2119e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2826 
+Weighted F1 score is : 0.6239 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2345 
+Weighted F1 score is : 0.4250 
+Epoch: [1499][1/2]	Time  0.570 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 7.0070e+00 (6.9660e+00)	Acc@1   0.78 (  0.95)	Loss Target 6.8211e+00 (6.8558e+00)	Acc@1   0.78 (  0.91)	Loss Sour-Tar CL 6.8211e+00 (6.8558e+00)	Acc@1  32.03 ( 29.36)	Loss Sour-Tar Disc 6.3670e-01 (6.3245e-01)	Acc@1   0.65 (  0.67)	Loss Pred 6.9840e-01 (6.9266e-01)	Macro F1   0.36 (  0.30)	Loss TOTAL 3.3644e+00 (3.3607e+00)
+VALIDATION RESULTS
+Epoch: [1499][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.5971e+00 (6.5971e+00)	Acc@1   9.43 (  9.43)	Loss Target 6.5018e+00 (6.5018e+00)	Acc@1   4.88 (  4.88)	Loss Sour-Tar CL 6.5018e+00 (6.5018e+00)	Acc@1  60.98 ( 60.98)	Loss Sour-Tar Disc 6.3656e-01 (6.3656e-01)	Acc@1   0.66 (  0.66)	Loss Pred 6.5842e-01 (6.5842e-01)	Macro F1   0.28 (  0.28)	Loss TOTAL 3.0766e+00 (3.0766e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7358 
+Macro F1 score is : 0.2826 
+Weighted F1 score is : 0.6239 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2345 
+Weighted F1 score is : 0.4250 
+Epoch: [1599][1/2]	Time  0.568 ( 0.569)	Data  0.007 ( 0.006)	Loss Source 6.8808e+00 (6.9114e+00)	Acc@1   0.78 (  0.84)	Loss Target 6.8652e+00 (6.8187e+00)	Acc@1   1.56 (  0.89)	Loss Sour-Tar CL 6.8652e+00 (6.8187e+00)	Acc@1  28.91 ( 29.39)	Loss Sour-Tar Disc 6.4715e-01 (6.3800e-01)	Acc@1   0.64 (  0.66)	Loss Pred 6.7595e-01 (6.5275e-01)	Macro F1   0.31 (  0.37)	Loss TOTAL 3.3574e+00 (3.3148e+00)
+VALIDATION RESULTS
+Epoch: [1599][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.6439e+00 (6.6439e+00)	Acc@1   7.55 (  7.55)	Loss Target 6.4882e+00 (6.4882e+00)	Acc@1   4.88 (  4.88)	Loss Sour-Tar CL 6.4882e+00 (6.4882e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.4520e-01 (6.4520e-01)	Acc@1   0.59 (  0.59)	Loss Pred 6.1908e-01 (6.1908e-01)	Macro F1   0.42 (  0.42)	Loss TOTAL 3.0544e+00 (3.0544e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7736 
+Macro F1 score is : 0.4225 
+Weighted F1 score is : 0.6832 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2345 
+Weighted F1 score is : 0.4250 
+Epoch: [1699][1/2]	Time  0.564 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.9880e+00 (6.8815e+00)	Acc@1   0.78 (  0.85)	Loss Target 6.7512e+00 (6.7740e+00)	Acc@1   2.34 (  0.82)	Loss Sour-Tar CL 6.7512e+00 (6.7740e+00)	Acc@1  36.72 ( 29.66)	Loss Sour-Tar Disc 6.4634e-01 (6.4524e-01)	Acc@1   0.64 (  0.65)	Loss Pred 5.6296e-01 (6.2519e-01)	Macro F1   0.44 (  0.45)	Loss TOTAL 3.2141e+00 (3.2801e+00)
+VALIDATION RESULTS
+Epoch: [1699][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.4515e+00 (6.4515e+00)	Acc@1  13.21 ( 13.21)	Loss Target 6.0500e+00 (6.0500e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 6.0500e+00 (6.0500e+00)	Acc@1  63.41 ( 63.41)	Loss Sour-Tar Disc 6.7597e-01 (6.7597e-01)	Acc@1   0.59 (  0.59)	Loss Pred 6.0311e-01 (6.0311e-01)	Macro F1   0.46 (  0.46)	Loss TOTAL 2.9752e+00 (2.9752e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7736 
+Macro F1 score is : 0.4582 
+Weighted F1 score is : 0.6996 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2519 
+Weighted F1 score is : 0.4518 
+Epoch: [1799][1/2]	Time  0.566 ( 0.571)	Data  0.006 ( 0.006)	Loss Source 6.7578e+00 (6.8321e+00)	Acc@1   0.00 (  0.94)	Loss Target 6.6629e+00 (6.7603e+00)	Acc@1   0.00 (  0.83)	Loss Sour-Tar CL 6.6629e+00 (6.7603e+00)	Acc@1  31.25 ( 28.98)	Loss Sour-Tar Disc 6.5429e-01 (6.5014e-01)	Acc@1   0.61 (  0.64)	Loss Pred 5.5398e-01 (5.8810e-01)	Macro F1   0.44 (  0.47)	Loss TOTAL 3.1740e+00 (3.2411e+00)
+VALIDATION RESULTS
+Epoch: [1799][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.4804e+00 (6.4804e+00)	Acc@1  13.21 ( 13.21)	Loss Target 6.1341e+00 (6.1341e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 6.1341e+00 (6.1341e+00)	Acc@1  70.73 ( 70.73)	Loss Sour-Tar Disc 6.6436e-01 (6.6436e-01)	Acc@1   0.57 (  0.57)	Loss Pred 5.8060e-01 (5.8060e-01)	Macro F1   0.44 (  0.44)	Loss TOTAL 2.9470e+00 (2.9470e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.4418 
+Weighted F1 score is : 0.7083 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5854 
+Macro F1 score is : 0.2638 
+Weighted F1 score is : 0.4760 
+Epoch: [1899][1/2]	Time  0.572 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.8738e+00 (6.8202e+00)	Acc@1   1.56 (  0.98)	Loss Target 6.7045e+00 (6.7337e+00)	Acc@1   1.56 (  0.80)	Loss Sour-Tar CL 6.7045e+00 (6.7337e+00)	Acc@1  30.47 ( 28.98)	Loss Sour-Tar Disc 6.4972e-01 (6.5351e-01)	Acc@1   0.62 (  0.64)	Loss Pred 5.2466e-01 (5.6518e-01)	Macro F1   0.50 (  0.49)	Loss TOTAL 3.1786e+00 (3.2142e+00)
+VALIDATION RESULTS
+Epoch: [1899][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.7666e+00 (6.7666e+00)	Acc@1   9.43 (  9.43)	Loss Target 6.3634e+00 (6.3634e+00)	Acc@1   7.32 (  7.32)	Loss Sour-Tar CL 6.3634e+00 (6.3634e+00)	Acc@1  51.22 ( 51.22)	Loss Sour-Tar Disc 6.7773e-01 (6.7773e-01)	Acc@1   0.59 (  0.59)	Loss Pred 5.9983e-01 (5.9983e-01)	Macro F1   0.50 (  0.50)	Loss TOTAL 3.0748e+00 (3.0748e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.5019 
+Weighted F1 score is : 0.7356 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2899 
+Weighted F1 score is : 0.4876 
+Epoch: [1999][1/2]	Time  0.568 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.8061e+00 (6.8260e+00)	Acc@1   0.00 (  0.95)	Loss Target 6.7068e+00 (6.6808e+00)	Acc@1   0.00 (  0.96)	Loss Sour-Tar CL 6.7068e+00 (6.6808e+00)	Acc@1  35.94 ( 28.48)	Loss Sour-Tar Disc 6.4876e-01 (6.5586e-01)	Acc@1   0.67 (  0.64)	Loss Pred 4.8151e-01 (5.3191e-01)	Macro F1   0.52 (  0.51)	Loss TOTAL 3.1231e+00 (3.1743e+00)
+VALIDATION RESULTS
+Epoch: [1999][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.4711e+00 (6.4711e+00)	Acc@1  11.32 ( 11.32)	Loss Target 6.4859e+00 (6.4859e+00)	Acc@1   2.44 (  2.44)	Loss Sour-Tar CL 6.4859e+00 (6.4859e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.9520e-01 (6.9520e-01)	Acc@1   0.61 (  0.61)	Loss Pred 5.6359e-01 (5.6359e-01)	Macro F1   0.47 (  0.47)	Loss TOTAL 3.0349e+00 (3.0349e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.4674 
+Weighted F1 score is : 0.7374 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5854 
+Macro F1 score is : 0.2993 
+Weighted F1 score is : 0.5095 
+Epoch: [2099][1/2]	Time  0.570 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.9481e+00 (6.7734e+00)	Acc@1   0.78 (  0.86)	Loss Target 6.6434e+00 (6.6959e+00)	Acc@1   2.34 (  0.78)	Loss Sour-Tar CL 6.6434e+00 (6.6959e+00)	Acc@1  32.81 ( 29.26)	Loss Sour-Tar Disc 6.4541e-01 (6.5748e-01)	Acc@1   0.66 (  0.64)	Loss Pred 4.2195e-01 (5.1972e-01)	Macro F1   0.50 (  0.51)	Loss TOTAL 3.0431e+00 (3.1589e+00)
+VALIDATION RESULTS
+Epoch: [2099][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.3857e+00 (6.3857e+00)	Acc@1  11.32 ( 11.32)	Loss Target 6.5648e+00 (6.5648e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 6.5648e+00 (6.5648e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.7254e-01 (6.7254e-01)	Acc@1   0.64 (  0.64)	Loss Pred 4.4140e-01 (4.4140e-01)	Macro F1   0.55 (  0.55)	Loss TOTAL 2.8880e+00 (2.8880e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8302 
+Macro F1 score is : 0.5466 
+Weighted F1 score is : 0.7739 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2898 
+Weighted F1 score is : 0.4900 
+Epoch: [2199][1/2]	Time  0.569 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.5093e+00 (6.7508e+00)	Acc@1   0.78 (  1.15)	Loss Target 6.5827e+00 (6.6695e+00)	Acc@1   0.00 (  0.78)	Loss Sour-Tar CL 6.5827e+00 (6.6695e+00)	Acc@1  35.16 ( 29.05)	Loss Sour-Tar Disc 6.6629e-01 (6.5485e-01)	Acc@1   0.63 (  0.65)	Loss Pred 4.1092e-01 (4.9156e-01)	Macro F1   0.54 (  0.52)	Loss TOTAL 2.9890e+00 (3.1177e+00)
+VALIDATION RESULTS
+Epoch: [2199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.5008e+00 (6.5008e+00)	Acc@1  15.09 ( 15.09)	Loss Target 6.3769e+00 (6.3769e+00)	Acc@1   9.76 (  9.76)	Loss Sour-Tar CL 6.3769e+00 (6.3769e+00)	Acc@1  46.34 ( 46.34)	Loss Sour-Tar Disc 6.8397e-01 (6.8397e-01)	Acc@1   0.59 (  0.59)	Loss Pred 5.3942e-01 (5.3942e-01)	Macro F1   0.50 (  0.50)	Loss TOTAL 2.9835e+00 (2.9835e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.5041 
+Weighted F1 score is : 0.7466 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.3656 
+Weighted F1 score is : 0.4896 
+Epoch: [2299][1/2]	Time  0.566 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 6.7251e+00 (6.7432e+00)	Acc@1   2.34 (  0.95)	Loss Target 6.6958e+00 (6.6682e+00)	Acc@1   1.56 (  0.95)	Loss Sour-Tar CL 6.6958e+00 (6.6682e+00)	Acc@1  32.81 ( 29.23)	Loss Sour-Tar Disc 6.6311e-01 (6.4998e-01)	Acc@1   0.61 (  0.66)	Loss Pred 4.7447e-01 (4.5671e-01)	Macro F1   0.51 (  0.53)	Loss TOTAL 3.1049e+00 (3.0790e+00)
+VALIDATION RESULTS
+Epoch: [2299][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.2668e+00 (6.2668e+00)	Acc@1  11.32 ( 11.32)	Loss Target 6.2364e+00 (6.2364e+00)	Acc@1   4.88 (  4.88)	Loss Sour-Tar CL 6.2364e+00 (6.2364e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.8714e-01 (6.8714e-01)	Acc@1   0.56 (  0.56)	Loss Pred 5.3304e-01 (5.3304e-01)	Macro F1   0.49 (  0.49)	Loss TOTAL 2.9529e+00 (2.9529e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7736 
+Macro F1 score is : 0.4932 
+Weighted F1 score is : 0.7232 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2578 
+Weighted F1 score is : 0.4637 
+Epoch: [2399][1/2]	Time  0.565 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 6.8548e+00 (6.7312e+00)	Acc@1   0.78 (  1.00)	Loss Target 6.5047e+00 (6.6107e+00)	Acc@1   0.78 (  0.88)	Loss Sour-Tar CL 6.5047e+00 (6.6107e+00)	Acc@1  22.66 ( 30.06)	Loss Sour-Tar Disc 6.4778e-01 (6.4775e-01)	Acc@1   0.67 (  0.66)	Loss Pred 4.4967e-01 (4.5833e-01)	Macro F1   0.55 (  0.53)	Loss TOTAL 3.0397e+00 (3.0595e+00)
+VALIDATION RESULTS
+Epoch: [2399][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.0559e+00 (6.0559e+00)	Acc@1  20.75 ( 20.75)	Loss Target 6.0337e+00 (6.0337e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar CL 6.0337e+00 (6.0337e+00)	Acc@1  65.85 ( 65.85)	Loss Sour-Tar Disc 6.8544e-01 (6.8544e-01)	Acc@1   0.57 (  0.57)	Loss Pred 5.3372e-01 (5.3372e-01)	Macro F1   0.48 (  0.48)	Loss TOTAL 2.8706e+00 (2.8706e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7547 
+Macro F1 score is : 0.4772 
+Weighted F1 score is : 0.7139 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5610 
+Macro F1 score is : 0.2639 
+Weighted F1 score is : 0.4736 
+Epoch: [2499][1/2]	Time  0.569 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.6678e+00 (6.6855e+00)	Acc@1   1.56 (  0.75)	Loss Target 6.4990e+00 (6.6249e+00)	Acc@1   1.56 (  0.80)	Loss Sour-Tar CL 6.4990e+00 (6.6249e+00)	Acc@1  29.69 ( 30.09)	Loss Sour-Tar Disc 6.5356e-01 (6.4596e-01)	Acc@1   0.66 (  0.66)	Loss Pred 4.5019e-01 (4.2701e-01)	Macro F1   0.57 (  0.54)	Loss TOTAL 3.0378e+00 (3.0242e+00)
+VALIDATION RESULTS
+Epoch: [2499][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.3947e+00 (6.3947e+00)	Acc@1   7.55 (  7.55)	Loss Target 5.8844e+00 (5.8844e+00)	Acc@1  17.07 ( 17.07)	Loss Sour-Tar CL 5.8844e+00 (5.8844e+00)	Acc@1  73.17 ( 73.17)	Loss Sour-Tar Disc 6.7005e-01 (6.7005e-01)	Acc@1   0.60 (  0.60)	Loss Pred 3.8310e-01 (3.8310e-01)	Macro F1   0.57 (  0.57)	Loss TOTAL 2.6872e+00 (2.6872e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.5709 
+Weighted F1 score is : 0.7997 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5854 
+Macro F1 score is : 0.2983 
+Weighted F1 score is : 0.5046 
+Epoch: [2599][1/2]	Time  0.565 ( 0.571)	Data  0.006 ( 0.006)	Loss Source 6.7233e+00 (6.6646e+00)	Acc@1   2.34 (  0.88)	Loss Target 6.5052e+00 (6.6042e+00)	Acc@1   2.34 (  0.82)	Loss Sour-Tar CL 6.5052e+00 (6.6042e+00)	Acc@1  25.78 ( 29.35)	Loss Sour-Tar Disc 6.3273e-01 (6.4403e-01)	Acc@1   0.69 (  0.66)	Loss Pred 3.7097e-01 (4.1437e-01)	Macro F1   0.55 (  0.55)	Loss TOTAL 2.9477e+00 (3.0078e+00)
+VALIDATION RESULTS
+Epoch: [2599][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.3847e+00 (6.3847e+00)	Acc@1  16.98 ( 16.98)	Loss Target 5.9778e+00 (5.9778e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar CL 5.9778e+00 (5.9778e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.5363e-01 (6.5363e-01)	Acc@1   0.67 (  0.67)	Loss Pred 4.8687e-01 (4.8687e-01)	Macro F1   0.51 (  0.51)	Loss TOTAL 2.7931e+00 (2.7931e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8113 
+Macro F1 score is : 0.5097 
+Weighted F1 score is : 0.7550 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5854 
+Macro F1 score is : 0.2948 
+Weighted F1 score is : 0.5004 
+Epoch: [2699][1/2]	Time  0.567 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 6.5053e+00 (6.6343e+00)	Acc@1   0.78 (  0.80)	Loss Target 6.5424e+00 (6.5679e+00)	Acc@1   0.78 (  1.04)	Loss Sour-Tar CL 6.5424e+00 (6.5679e+00)	Acc@1  33.59 ( 29.26)	Loss Sour-Tar Disc 6.2139e-01 (6.4430e-01)	Acc@1   0.70 (  0.65)	Loss Pred 2.9276e-01 (4.1151e-01)	Macro F1   0.55 (  0.55)	Loss TOTAL 2.8231e+00 (2.9910e+00)
+VALIDATION RESULTS
+Epoch: [2699][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.2853e+00 (6.2853e+00)	Acc@1  11.32 ( 11.32)	Loss Target 6.1974e+00 (6.1974e+00)	Acc@1   7.32 (  7.32)	Loss Sour-Tar CL 6.1974e+00 (6.1974e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.6735e-01 (6.6735e-01)	Acc@1   0.68 (  0.68)	Loss Pred 5.2944e-01 (5.2944e-01)	Macro F1   0.47 (  0.47)	Loss TOTAL 2.9107e+00 (2.9107e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7736 
+Macro F1 score is : 0.4717 
+Weighted F1 score is : 0.7240 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.5366 
+Macro F1 score is : 0.2592 
+Weighted F1 score is : 0.4674 
+Epoch: [2799][1/2]	Time  0.569 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.6589e+00 (6.6303e+00)	Acc@1   0.00 (  0.93)	Loss Target 6.3978e+00 (6.5532e+00)	Acc@1   2.34 (  0.79)	Loss Sour-Tar CL 6.3978e+00 (6.5532e+00)	Acc@1  35.94 ( 30.09)	Loss Sour-Tar Disc 6.5512e-01 (6.4285e-01)	Acc@1   0.61 (  0.65)	Loss Pred 3.4100e-01 (3.9157e-01)	Macro F1   0.62 (  0.57)	Loss TOTAL 2.8855e+00 (2.9656e+00)
+VALIDATION RESULTS
+Epoch: [2799][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.5453e+00 (6.5453e+00)	Acc@1   9.43 (  9.43)	Loss Target 6.3441e+00 (6.3441e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar CL 6.3441e+00 (6.3441e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.8647e-01 (6.8647e-01)	Acc@1   0.57 (  0.57)	Loss Pred 4.8344e-01 (4.8344e-01)	Macro F1   0.51 (  0.51)	Loss TOTAL 2.9147e+00 (2.9147e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.5073 
+Weighted F1 score is : 0.7431 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.6098 
+Macro F1 score is : 0.3366 
+Weighted F1 score is : 0.5249 
+Epoch: [2899][1/2]	Time  0.574 ( 0.571)	Data  0.007 ( 0.006)	Loss Source 6.8398e+00 (6.6337e+00)	Acc@1   0.78 (  1.11)	Loss Target 6.6243e+00 (6.5216e+00)	Acc@1   0.00 (  0.91)	Loss Sour-Tar CL 6.6243e+00 (6.5216e+00)	Acc@1  25.78 ( 28.83)	Loss Sour-Tar Disc 6.4113e-01 (6.4327e-01)	Acc@1   0.67 (  0.64)	Loss Pred 3.0712e-01 (3.9011e-01)	Macro F1   0.55 (  0.61)	Loss TOTAL 2.9068e+00 (2.9594e+00)
+VALIDATION RESULTS
+Epoch: [2899][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.3854e+00 (6.3854e+00)	Acc@1  13.21 ( 13.21)	Loss Target 6.4463e+00 (6.4463e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar CL 6.4463e+00 (6.4463e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.8493e-01 (6.8493e-01)	Acc@1   0.53 (  0.53)	Loss Pred 4.7122e-01 (4.7122e-01)	Macro F1   0.57 (  0.57)	Loss TOTAL 2.8921e+00 (2.8921e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.7925 
+Macro F1 score is : 0.5723 
+Weighted F1 score is : 0.7445 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.6585 
+Macro F1 score is : 0.3859 
+Weighted F1 score is : 0.5744 
+Epoch: [2999][1/2]	Time  0.573 ( 0.570)	Data  0.007 ( 0.006)	Loss Source 6.5859e+00 (6.5900e+00)	Acc@1   0.00 (  1.04)	Loss Target 6.4125e+00 (6.5027e+00)	Acc@1   0.00 (  0.98)	Loss Sour-Tar CL 6.4125e+00 (6.5027e+00)	Acc@1  23.44 ( 29.36)	Loss Sour-Tar Disc 6.3859e-01 (6.4168e-01)	Acc@1   0.62 (  0.64)	Loss Pred 3.0189e-01 (3.6993e-01)	Macro F1   0.67 (  0.63)	Loss TOTAL 2.8674e+00 (2.9291e+00)
+VALIDATION RESULTS
+Epoch: [2999][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.1434e+00 (6.1434e+00)	Acc@1  11.32 ( 11.32)	Loss Target 6.1728e+00 (6.1728e+00)	Acc@1  21.95 ( 21.95)	Loss Sour-Tar CL 6.1728e+00 (6.1728e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.6542e-01 (6.6542e-01)	Acc@1   0.60 (  0.60)	Loss Pred 3.5533e-01 (3.5533e-01)	Macro F1   0.77 (  0.77)	Loss TOTAL 2.6925e+00 (2.6925e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.9057 
+Macro F1 score is : 0.7652 
+Weighted F1 score is : 0.8857 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.6098 
+Macro F1 score is : 0.3401 
+Weighted F1 score is : 0.5293 
+Epoch: [3099][1/2]	Time  0.567 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.7380e+00 (6.5719e+00)	Acc@1   0.78 (  1.11)	Loss Target 6.5724e+00 (6.4965e+00)	Acc@1   0.00 (  1.04)	Loss Sour-Tar CL 6.5724e+00 (6.4965e+00)	Acc@1  32.81 ( 29.18)	Loss Sour-Tar Disc 6.4201e-01 (6.4460e-01)	Acc@1   0.63 (  0.64)	Loss Pred 3.4612e-01 (3.5440e-01)	Macro F1   0.66 (  0.70)	Loss TOTAL 2.9405e+00 (2.9149e+00)
+VALIDATION RESULTS
+Epoch: [3099][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.3904e+00 (6.3904e+00)	Acc@1  13.21 ( 13.21)	Loss Target 6.0679e+00 (6.0679e+00)	Acc@1  19.51 ( 19.51)	Loss Sour-Tar CL 6.0679e+00 (6.0679e+00)	Acc@1  48.78 ( 48.78)	Loss Sour-Tar Disc 6.6402e-01 (6.6402e-01)	Acc@1   0.59 (  0.59)	Loss Pred 4.1828e-01 (4.1828e-01)	Macro F1   0.66 (  0.66)	Loss TOTAL 2.7966e+00 (2.7966e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.6606 
+Weighted F1 score is : 0.8183 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7073 
+Macro F1 score is : 0.5576 
+Weighted F1 score is : 0.6333 
+Epoch: [3199][1/2]	Time  0.575 ( 0.569)	Data  0.007 ( 0.006)	Loss Source 6.5077e+00 (6.5476e+00)	Acc@1   1.56 (  1.02)	Loss Target 6.8089e+00 (6.4862e+00)	Acc@1   0.78 (  1.13)	Loss Sour-Tar CL 6.8089e+00 (6.4862e+00)	Acc@1  26.56 ( 29.71)	Loss Sour-Tar Disc 6.4952e-01 (6.4837e-01)	Acc@1   0.60 (  0.63)	Loss Pred 3.2939e-01 (3.4489e-01)	Macro F1   0.78 (  0.74)	Loss TOTAL 2.9665e+00 (2.9014e+00)
+VALIDATION RESULTS
+Epoch: [3199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.0931e+00 (6.0931e+00)	Acc@1  20.75 ( 20.75)	Loss Target 5.9833e+00 (5.9833e+00)	Acc@1  21.95 ( 21.95)	Loss Sour-Tar CL 5.9833e+00 (5.9833e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.5245e-01 (6.5245e-01)	Acc@1   0.61 (  0.61)	Loss Pred 3.3859e-01 (3.3859e-01)	Macro F1   0.66 (  0.66)	Loss TOTAL 2.6458e+00 (2.6458e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.6616 
+Weighted F1 score is : 0.8095 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7561 
+Macro F1 score is : 0.6889 
+Weighted F1 score is : 0.7171 
+Epoch: [3299][1/2]	Time  0.567 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 6.5669e+00 (6.5237e+00)	Acc@1   0.00 (  1.09)	Loss Target 6.5229e+00 (6.4428e+00)	Acc@1   2.34 (  0.93)	Loss Sour-Tar CL 6.5229e+00 (6.4428e+00)	Acc@1  32.81 ( 29.91)	Loss Sour-Tar Disc 6.4271e-01 (6.4969e-01)	Acc@1   0.66 (  0.62)	Loss Pred 3.6779e-01 (3.1943e-01)	Macro F1   0.76 (  0.78)	Loss TOTAL 2.9245e+00 (2.8670e+00)
+VALIDATION RESULTS
+Epoch: [3299][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.8752e+00 (5.8752e+00)	Acc@1  22.64 ( 22.64)	Loss Target 6.4696e+00 (6.4696e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar CL 6.4696e+00 (6.4696e+00)	Acc@1  41.46 ( 41.46)	Loss Sour-Tar Disc 6.6792e-01 (6.6792e-01)	Acc@1   0.57 (  0.57)	Loss Pred 4.1708e-01 (4.1708e-01)	Macro F1   0.66 (  0.66)	Loss TOTAL 2.7536e+00 (2.7536e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.6571 
+Weighted F1 score is : 0.8126 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7073 
+Macro F1 score is : 0.6538 
+Weighted F1 score is : 0.6654 
+Epoch: [3399][1/2]	Time  0.562 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.4018e+00 (6.5138e+00)	Acc@1   0.00 (  1.17)	Loss Target 6.4570e+00 (6.4495e+00)	Acc@1   0.78 (  0.94)	Loss Sour-Tar CL 6.4570e+00 (6.4495e+00)	Acc@1  28.91 ( 29.41)	Loss Sour-Tar Disc 6.4802e-01 (6.5519e-01)	Acc@1   0.65 (  0.61)	Loss Pred 3.3989e-01 (3.1479e-01)	Macro F1   0.81 (  0.80)	Loss TOTAL 2.8797e+00 (2.8676e+00)
+VALIDATION RESULTS
+Epoch: [3399][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.7137e+00 (5.7137e+00)	Acc@1  16.98 ( 16.98)	Loss Target 6.0569e+00 (6.0569e+00)	Acc@1  17.07 ( 17.07)	Loss Sour-Tar CL 6.0569e+00 (6.0569e+00)	Acc@1  53.66 ( 53.66)	Loss Sour-Tar Disc 6.6392e-01 (6.6392e-01)	Acc@1   0.59 (  0.59)	Loss Pred 3.7796e-01 (3.7796e-01)	Macro F1   0.70 (  0.70)	Loss TOTAL 2.6548e+00 (2.6548e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.6965 
+Weighted F1 score is : 0.8407 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7317 
+Macro F1 score is : 0.6333 
+Weighted F1 score is : 0.7008 
+Epoch: [3499][1/2]	Time  0.575 ( 0.567)	Data  0.006 ( 0.006)	Loss Source 6.3157e+00 (6.4743e+00)	Acc@1   0.78 (  1.32)	Loss Target 6.6570e+00 (6.4303e+00)	Acc@1   0.00 (  0.98)	Loss Sour-Tar CL 6.6570e+00 (6.4303e+00)	Acc@1  25.78 ( 29.55)	Loss Sour-Tar Disc 6.7247e-01 (6.5437e-01)	Acc@1   0.60 (  0.61)	Loss Pred 3.8913e-01 (2.9177e-01)	Macro F1   0.84 (  0.82)	Loss TOTAL 2.9981e+00 (2.8342e+00)
+VALIDATION RESULTS
+Epoch: [3499][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.0472e+00 (6.0472e+00)	Acc@1  18.87 ( 18.87)	Loss Target 6.0864e+00 (6.0864e+00)	Acc@1  12.20 ( 12.20)	Loss Sour-Tar CL 6.0864e+00 (6.0864e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.7226e-01 (6.7226e-01)	Acc@1   0.57 (  0.57)	Loss Pred 3.5690e-01 (3.5690e-01)	Macro F1   0.77 (  0.77)	Loss TOTAL 2.6804e+00 (2.6804e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.7662 
+Weighted F1 score is : 0.8693 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7073 
+Macro F1 score is : 0.5679 
+Weighted F1 score is : 0.6357 
+Epoch: [3599][1/2]	Time  0.568 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.3909e+00 (6.4573e+00)	Acc@1   0.78 (  1.19)	Loss Target 6.3572e+00 (6.4063e+00)	Acc@1   0.78 (  1.05)	Loss Sour-Tar CL 6.3572e+00 (6.4063e+00)	Acc@1  25.78 ( 30.04)	Loss Sour-Tar Disc 6.5310e-01 (6.5687e-01)	Acc@1   0.61 (  0.61)	Loss Pred 2.3218e-01 (2.8533e-01)	Macro F1   0.84 (  0.84)	Loss TOTAL 2.7403e+00 (2.8225e+00)
+VALIDATION RESULTS
+Epoch: [3599][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.0398e+00 (6.0398e+00)	Acc@1  13.21 ( 13.21)	Loss Target 5.6914e+00 (5.6914e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.6914e+00 (5.6914e+00)	Acc@1  68.29 ( 68.29)	Loss Sour-Tar Disc 6.6568e-01 (6.6568e-01)	Acc@1   0.62 (  0.62)	Loss Pred 3.9047e-01 (3.9047e-01)	Macro F1   0.73 (  0.73)	Loss TOTAL 2.6011e+00 (2.6011e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.7301 
+Weighted F1 score is : 0.8279 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7073 
+Macro F1 score is : 0.6250 
+Weighted F1 score is : 0.6517 
+Epoch: [3699][1/2]	Time  0.567 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.6264e+00 (6.4399e+00)	Acc@1   0.00 (  1.27)	Loss Target 6.3665e+00 (6.3693e+00)	Acc@1   0.78 (  1.02)	Loss Sour-Tar CL 6.3665e+00 (6.3693e+00)	Acc@1  27.34 ( 29.68)	Loss Sour-Tar Disc 6.6067e-01 (6.5679e-01)	Acc@1   0.59 (  0.61)	Loss Pred 3.4323e-01 (2.7089e-01)	Macro F1   0.76 (  0.85)	Loss TOTAL 2.9063e+00 (2.7988e+00)
+VALIDATION RESULTS
+Epoch: [3699][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9808e+00 (5.9808e+00)	Acc@1  22.64 ( 22.64)	Loss Target 5.8450e+00 (5.8450e+00)	Acc@1  21.95 ( 21.95)	Loss Sour-Tar CL 5.8450e+00 (5.8450e+00)	Acc@1  53.66 ( 53.66)	Loss Sour-Tar Disc 6.6579e-01 (6.6579e-01)	Acc@1   0.60 (  0.60)	Loss Pred 3.8928e-01 (3.8928e-01)	Macro F1   0.69 (  0.69)	Loss TOTAL 2.6681e+00 (2.6681e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.6929 
+Weighted F1 score is : 0.8328 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7317 
+Macro F1 score is : 0.6639 
+Weighted F1 score is : 0.6860 
+Epoch: [3799][1/2]	Time  0.572 ( 0.568)	Data  0.006 ( 0.006)	Loss Source 6.3127e+00 (6.4158e+00)	Acc@1   0.78 (  1.19)	Loss Target 6.3489e+00 (6.3548e+00)	Acc@1   0.00 (  1.02)	Loss Sour-Tar CL 6.3489e+00 (6.3548e+00)	Acc@1  23.44 ( 29.69)	Loss Sour-Tar Disc 6.6769e-01 (6.5487e-01)	Acc@1   0.57 (  0.61)	Loss Pred 2.6753e-01 (2.5417e-01)	Macro F1   0.86 (  0.87)	Loss TOTAL 2.7714e+00 (2.7708e+00)
+VALIDATION RESULTS
+Epoch: [3799][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.0056e+00 (6.0056e+00)	Acc@1  18.87 ( 18.87)	Loss Target 5.7718e+00 (5.7718e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.7718e+00 (5.7718e+00)	Acc@1  68.29 ( 68.29)	Loss Sour-Tar Disc 6.8137e-01 (6.8137e-01)	Acc@1   0.52 (  0.52)	Loss Pred 3.5150e-01 (3.5150e-01)	Macro F1   0.73 (  0.73)	Loss TOTAL 2.6181e+00 (2.6181e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8868 
+Macro F1 score is : 0.7282 
+Weighted F1 score is : 0.8652 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7317 
+Macro F1 score is : 0.6341 
+Weighted F1 score is : 0.6625 
+Epoch: [3899][1/2]	Time  0.577 ( 0.579)	Data  0.007 ( 0.007)	Loss Source 6.4580e+00 (6.4010e+00)	Acc@1   0.00 (  1.24)	Loss Target 6.3645e+00 (6.3736e+00)	Acc@1   3.12 (  1.08)	Loss Sour-Tar CL 6.3645e+00 (6.3736e+00)	Acc@1  25.78 ( 29.05)	Loss Sour-Tar Disc 6.6233e-01 (6.5678e-01)	Acc@1   0.60 (  0.61)	Loss Pred 2.1413e-01 (2.4711e-01)	Macro F1   0.88 (  0.87)	Loss TOTAL 2.7465e+00 (2.7715e+00)
+VALIDATION RESULTS
+Epoch: [3899][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.6446e+00 (5.6446e+00)	Acc@1  26.42 ( 26.42)	Loss Target 5.8124e+00 (5.8124e+00)	Acc@1  21.95 ( 21.95)	Loss Sour-Tar CL 5.8124e+00 (5.8124e+00)	Acc@1  63.41 ( 63.41)	Loss Sour-Tar Disc 6.6179e-01 (6.6179e-01)	Acc@1   0.59 (  0.59)	Loss Pred 3.2859e-01 (3.2859e-01)	Macro F1   0.79 (  0.79)	Loss TOTAL 2.5445e+00 (2.5445e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8868 
+Macro F1 score is : 0.7885 
+Weighted F1 score is : 0.8691 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7317 
+Macro F1 score is : 0.6075 
+Weighted F1 score is : 0.6436 
+Epoch: [3999][1/2]	Time  0.580 ( 0.579)	Data  0.007 ( 0.006)	Loss Source 6.3730e+00 (6.3932e+00)	Acc@1   2.34 (  1.09)	Loss Target 6.2910e+00 (6.3395e+00)	Acc@1   1.56 (  0.95)	Loss Sour-Tar CL 6.2910e+00 (6.3395e+00)	Acc@1  30.47 ( 30.34)	Loss Sour-Tar Disc 6.5403e-01 (6.5459e-01)	Acc@1   0.62 (  0.61)	Loss Pred 2.8792e-01 (2.4318e-01)	Macro F1   0.84 (  0.88)	Loss TOTAL 2.7778e+00 (2.7545e+00)
+VALIDATION RESULTS
+Epoch: [3999][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.8838e+00 (5.8838e+00)	Acc@1  22.64 ( 22.64)	Loss Target 5.6812e+00 (5.6812e+00)	Acc@1  26.83 ( 26.83)	Loss Sour-Tar CL 5.6812e+00 (5.6812e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.6738e-01 (6.6738e-01)	Acc@1   0.54 (  0.54)	Loss Pred 4.2157e-01 (4.2157e-01)	Macro F1   0.77 (  0.77)	Loss TOTAL 2.6253e+00 (2.6253e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.7661 
+Weighted F1 score is : 0.8541 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7805 
+Macro F1 score is : 0.7127 
+Weighted F1 score is : 0.7310 
+Epoch: [4099][1/2]	Time  0.576 ( 0.580)	Data  0.006 ( 0.007)	Loss Source 6.3889e+00 (6.3906e+00)	Acc@1   1.56 (  1.11)	Loss Target 6.5250e+00 (6.3366e+00)	Acc@1   0.78 (  0.98)	Loss Sour-Tar CL 6.5250e+00 (6.3366e+00)	Acc@1  34.38 ( 29.26)	Loss Sour-Tar Disc 6.7521e-01 (6.5431e-01)	Acc@1   0.56 (  0.61)	Loss Pred 2.5089e-01 (2.3437e-01)	Macro F1   0.90 (  0.87)	Loss TOTAL 2.8054e+00 (2.7457e+00)
+VALIDATION RESULTS
+Epoch: [4099][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9257e+00 (5.9257e+00)	Acc@1  20.75 ( 20.75)	Loss Target 5.8418e+00 (5.8418e+00)	Acc@1  19.51 ( 19.51)	Loss Sour-Tar CL 5.8418e+00 (5.8418e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.5953e-01 (6.5953e-01)	Acc@1   0.57 (  0.57)	Loss Pred 3.7378e-01 (3.7378e-01)	Macro F1   0.71 (  0.71)	Loss TOTAL 2.6174e+00 (2.6174e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.7126 
+Weighted F1 score is : 0.8493 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7805 
+Macro F1 score is : 0.6591 
+Weighted F1 score is : 0.7189 
+Epoch: [4199][1/2]	Time  0.578 ( 0.580)	Data  0.007 ( 0.007)	Loss Source 6.4042e+00 (6.3511e+00)	Acc@1   0.78 (  1.19)	Loss Target 6.3012e+00 (6.3282e+00)	Acc@1   1.56 (  1.17)	Loss Sour-Tar CL 6.3012e+00 (6.3282e+00)	Acc@1  32.03 ( 29.66)	Loss Sour-Tar Disc 6.3794e-01 (6.5402e-01)	Acc@1   0.64 (  0.61)	Loss Pred 2.3145e-01 (2.1836e-01)	Macro F1   0.95 (  0.89)	Loss TOTAL 2.7353e+00 (2.7228e+00)
+VALIDATION RESULTS
+Epoch: [4199][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9580e+00 (5.9580e+00)	Acc@1  24.53 ( 24.53)	Loss Target 5.8713e+00 (5.8713e+00)	Acc@1  26.83 ( 26.83)	Loss Sour-Tar CL 5.8713e+00 (5.8713e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.5870e-01 (6.5870e-01)	Acc@1   0.59 (  0.59)	Loss Pred 3.0343e-01 (3.0343e-01)	Macro F1   0.69 (  0.69)	Loss TOTAL 2.5700e+00 (2.5700e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.6929 
+Weighted F1 score is : 0.8328 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.8049 
+Macro F1 score is : 0.7186 
+Weighted F1 score is : 0.7432 
+Epoch: [4299][1/2]	Time  0.574 ( 0.578)	Data  0.006 ( 0.007)	Loss Source 6.2162e+00 (6.3654e+00)	Acc@1   1.56 (  1.21)	Loss Target 6.4065e+00 (6.3024e+00)	Acc@1   0.78 (  1.12)	Loss Sour-Tar CL 6.4065e+00 (6.3024e+00)	Acc@1  28.91 ( 30.71)	Loss Sour-Tar Disc 6.5625e-01 (6.5376e-01)	Acc@1   0.62 (  0.61)	Loss Pred 1.8748e-01 (2.1631e-01)	Macro F1   0.90 (  0.89)	Loss TOTAL 2.6981e+00 (2.7164e+00)
+VALIDATION RESULTS
+Epoch: [4299][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9143e+00 (5.9143e+00)	Acc@1  22.64 ( 22.64)	Loss Target 5.7830e+00 (5.7830e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.7830e+00 (5.7830e+00)	Acc@1  65.85 ( 65.85)	Loss Sour-Tar Disc 6.4077e-01 (6.4077e-01)	Acc@1   0.64 (  0.64)	Loss Pred 3.8748e-01 (3.8748e-01)	Macro F1   0.68 (  0.68)	Loss TOTAL 2.5799e+00 (2.5799e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8491 
+Macro F1 score is : 0.6797 
+Weighted F1 score is : 0.8191 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7561 
+Macro F1 score is : 0.7026 
+Weighted F1 score is : 0.7209 
+Epoch: [4399][1/2]	Time  0.570 ( 0.571)	Data  0.007 ( 0.006)	Loss Source 6.2867e+00 (6.3297e+00)	Acc@1   0.78 (  1.34)	Loss Target 6.5525e+00 (6.3014e+00)	Acc@1   0.78 (  1.02)	Loss Sour-Tar CL 6.5525e+00 (6.3014e+00)	Acc@1  30.47 ( 29.31)	Loss Sour-Tar Disc 6.3424e-01 (6.5306e-01)	Acc@1   0.66 (  0.61)	Loss Pred 1.5302e-01 (1.9757e-01)	Macro F1   0.95 (  0.90)	Loss TOTAL 2.6624e+00 (2.6928e+00)
+VALIDATION RESULTS
+Epoch: [4399][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9860e+00 (5.9860e+00)	Acc@1  24.53 ( 24.53)	Loss Target 6.2363e+00 (6.2363e+00)	Acc@1  14.63 ( 14.63)	Loss Sour-Tar CL 6.2363e+00 (6.2363e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.7025e-01 (6.7025e-01)	Acc@1   0.55 (  0.55)	Loss Pred 3.3815e-01 (3.3815e-01)	Macro F1   0.70 (  0.70)	Loss TOTAL 2.6632e+00 (2.6632e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.7037 
+Weighted F1 score is : 0.8441 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7805 
+Macro F1 score is : 0.6770 
+Weighted F1 score is : 0.7128 
+Epoch: [4499][1/2]	Time  0.571 ( 0.571)	Data  0.006 ( 0.006)	Loss Source 6.2126e+00 (6.3088e+00)	Acc@1   0.78 (  1.12)	Loss Target 6.1816e+00 (6.2716e+00)	Acc@1   0.78 (  0.98)	Loss Sour-Tar CL 6.1816e+00 (6.2716e+00)	Acc@1  32.81 ( 30.24)	Loss Sour-Tar Disc 6.4533e-01 (6.4967e-01)	Acc@1   0.66 (  0.62)	Loss Pred 1.7220e-01 (1.8796e-01)	Macro F1   0.91 (  0.91)	Loss TOTAL 2.6435e+00 (2.6674e+00)
+VALIDATION RESULTS
+Epoch: [4499][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9235e+00 (5.9235e+00)	Acc@1  18.87 ( 18.87)	Loss Target 5.6244e+00 (5.6244e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.6244e+00 (5.6244e+00)	Acc@1  53.66 ( 53.66)	Loss Sour-Tar Disc 6.6734e-01 (6.6734e-01)	Acc@1   0.55 (  0.55)	Loss Pred 3.7278e-01 (3.7278e-01)	Macro F1   0.69 (  0.69)	Loss TOTAL 2.5905e+00 (2.5905e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.6932 
+Weighted F1 score is : 0.8340 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7805 
+Macro F1 score is : 0.7234 
+Weighted F1 score is : 0.7396 
+Epoch: [4599][1/2]	Time  0.565 ( 0.570)	Data  0.006 ( 0.006)	Loss Source 6.3536e+00 (6.3029e+00)	Acc@1   0.78 (  1.14)	Loss Target 6.2522e+00 (6.2500e+00)	Acc@1   0.78 (  1.04)	Loss Sour-Tar CL 6.2522e+00 (6.2500e+00)	Acc@1  25.78 ( 30.14)	Loss Sour-Tar Disc 6.4306e-01 (6.5301e-01)	Acc@1   0.65 (  0.62)	Loss Pred 1.6528e-01 (1.8003e-01)	Macro F1   0.92 (  0.92)	Loss TOTAL 2.6510e+00 (2.6628e+00)
+VALIDATION RESULTS
+Epoch: [4599][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.7916e+00 (5.7916e+00)	Acc@1  20.75 ( 20.75)	Loss Target 5.5661e+00 (5.5661e+00)	Acc@1  17.07 ( 17.07)	Loss Sour-Tar CL 5.5661e+00 (5.5661e+00)	Acc@1  65.85 ( 65.85)	Loss Sour-Tar Disc 6.5510e-01 (6.5510e-01)	Acc@1   0.60 (  0.60)	Loss Pred 3.0831e-01 (3.0831e-01)	Macro F1   0.82 (  0.82)	Loss TOTAL 2.4668e+00 (2.4668e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.9057 
+Macro F1 score is : 0.8175 
+Weighted F1 score is : 0.8904 
+Best model is updated!
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.8293 
+Macro F1 score is : 0.7783 
+Weighted F1 score is : 0.7923 
+Epoch: [4699][1/2]	Time  0.568 ( 0.569)	Data  0.006 ( 0.006)	Loss Source 6.2622e+00 (6.2784e+00)	Acc@1   0.78 (  1.15)	Loss Target 6.4930e+00 (6.2602e+00)	Acc@1   0.78 (  1.05)	Loss Sour-Tar CL 6.4930e+00 (6.2602e+00)	Acc@1  30.47 ( 30.05)	Loss Sour-Tar Disc 6.6239e-01 (6.5263e-01)	Acc@1   0.63 (  0.62)	Loss Pred 2.3319e-01 (1.7844e-01)	Macro F1   0.86 (  0.92)	Loss TOTAL 2.7829e+00 (2.6597e+00)
+VALIDATION RESULTS
+Epoch: [4699][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9186e+00 (5.9186e+00)	Acc@1  18.87 ( 18.87)	Loss Target 5.7886e+00 (5.7886e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.7886e+00 (5.7886e+00)	Acc@1  53.66 ( 53.66)	Loss Sour-Tar Disc 6.6262e-01 (6.6262e-01)	Acc@1   0.57 (  0.57)	Loss Pred 2.9172e-01 (2.9172e-01)	Macro F1   0.74 (  0.74)	Loss TOTAL 2.5455e+00 (2.5455e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8868 
+Macro F1 score is : 0.7423 
+Weighted F1 score is : 0.8594 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.8049 
+Macro F1 score is : 0.7186 
+Weighted F1 score is : 0.7676 
+Epoch: [4799][1/2]	Time  0.570 ( 0.573)	Data  0.007 ( 0.006)	Loss Source 6.3528e+00 (6.2848e+00)	Acc@1   2.34 (  1.25)	Loss Target 6.4119e+00 (6.2348e+00)	Acc@1   1.56 (  1.02)	Loss Sour-Tar CL 6.4119e+00 (6.2348e+00)	Acc@1  28.91 ( 29.82)	Loss Sour-Tar Disc 6.3727e-01 (6.5461e-01)	Acc@1   0.66 (  0.62)	Loss Pred 1.6821e-01 (1.7315e-01)	Macro F1   0.90 (  0.92)	Loss TOTAL 2.6452e+00 (2.6483e+00)
+VALIDATION RESULTS
+Epoch: [4799][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.9957e+00 (5.9957e+00)	Acc@1  22.64 ( 22.64)	Loss Target 5.7960e+00 (5.7960e+00)	Acc@1  19.51 ( 19.51)	Loss Sour-Tar CL 5.7960e+00 (5.7960e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.5045e-01 (6.5045e-01)	Acc@1   0.56 (  0.56)	Loss Pred 2.7350e-01 (2.7350e-01)	Macro F1   0.78 (  0.78)	Loss TOTAL 2.5127e+00 (2.5127e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.9245 
+Macro F1 score is : 0.7837 
+Weighted F1 score is : 0.8966 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.7805 
+Macro F1 score is : 0.7665 
+Weighted F1 score is : 0.7613 
+Epoch: [4899][1/2]	Time  0.576 ( 0.575)	Data  0.006 ( 0.007)	Loss Source 6.1641e+00 (6.2711e+00)	Acc@1   1.56 (  1.45)	Loss Target 6.2306e+00 (6.2264e+00)	Acc@1   0.00 (  1.12)	Loss Sour-Tar CL 6.2306e+00 (6.2264e+00)	Acc@1  32.03 ( 30.98)	Loss Sour-Tar Disc 6.5231e-01 (6.5273e-01)	Acc@1   0.61 (  0.62)	Loss Pred 1.2784e-01 (1.5752e-01)	Macro F1   0.96 (  0.92)	Loss TOTAL 2.5791e+00 (2.6289e+00)
+VALIDATION RESULTS
+Epoch: [4899][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 6.2863e+00 (6.2863e+00)	Acc@1  20.75 ( 20.75)	Loss Target 5.7235e+00 (5.7235e+00)	Acc@1  29.27 ( 29.27)	Loss Sour-Tar CL 5.7235e+00 (5.7235e+00)	Acc@1  58.54 ( 58.54)	Loss Sour-Tar Disc 6.7038e-01 (6.7038e-01)	Acc@1   0.54 (  0.54)	Loss Pred 3.8527e-01 (3.8527e-01)	Macro F1   0.70 (  0.70)	Loss TOTAL 2.6862e+00 (2.6862e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8679 
+Macro F1 score is : 0.7018 
+Weighted F1 score is : 0.8343 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.8293 
+Macro F1 score is : 0.7525 
+Weighted F1 score is : 0.7735 
+Epoch: [4999][1/2]	Time  0.569 ( 0.576)	Data  0.006 ( 0.007)	Loss Source 6.3618e+00 (6.2626e+00)	Acc@1   2.34 (  1.21)	Loss Target 6.3082e+00 (6.2048e+00)	Acc@1   1.56 (  1.12)	Loss Sour-Tar CL 6.3082e+00 (6.2048e+00)	Acc@1  27.34 ( 29.93)	Loss Sour-Tar Disc 6.5070e-01 (6.5410e-01)	Acc@1   0.62 (  0.62)	Loss Pred 1.0300e-01 (1.5786e-01)	Macro F1   0.97 (  0.92)	Loss TOTAL 2.5852e+00 (2.6247e+00)
+VALIDATION RESULTS
+Epoch: [4999][1/1]	Time  0.000 ( 0.000)	Data  0.003 ( 0.003)	Loss Source 5.7546e+00 (5.7546e+00)	Acc@1  20.75 ( 20.75)	Loss Target 5.6607e+00 (5.6607e+00)	Acc@1  24.39 ( 24.39)	Loss Sour-Tar CL 5.6607e+00 (5.6607e+00)	Acc@1  56.10 ( 56.10)	Loss Sour-Tar Disc 6.6052e-01 (6.6052e-01)	Acc@1   0.59 (  0.59)	Loss Pred 2.9938e-01 (2.9938e-01)	Macro F1   0.73 (  0.73)	Loss TOTAL 2.4729e+00 (2.4729e+00)
+VALIDATION SOURCE PREDICTIONS
+Accuracy score is : 0.8868 
+Macro F1 score is : 0.7345 
+Weighted F1 score is : 0.8559 
+VALIDATION TARGET PREDICTIONS
+Accuracy score is : 0.8049 
+Macro F1 score is : 0.7228 
+Weighted F1 score is : 0.7517 

@@ -1,0 +1,14 @@
+Target results saved to experiment_WISDM_26_2/default/predictions_test_target.csv
+TARGET RESULTS
+loaded from ../processed_datasets/WISDM
+
+Accuracy score is : 0.8780 
+Macro F1 score is : 0.6789 
+Weighted F1 score is : 0.8545 
+Source results saved to experiment_WISDM_26_2/default/predictions_test_source.csv
+SOURCE RESULTS
+loaded from ../processed_datasets/WISDM
+
+Accuracy score is : 0.9268 
+Macro F1 score is : 0.8917 
+Weighted F1 score is : 0.9195 
