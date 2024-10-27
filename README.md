@@ -1,24 +1,12 @@
-# CLUDA: Contrastive Learning for Unsupervised Domain Adaptation of Time Series
+# CLUDA-TimeSeries-Data-Augmentation
+
+Enhancing Human Activity Recognition through Contrastive Learning For Unsupervised Domain Adaptation with Data Augmentation in Time Series
+## CLUDA: Contrastive Learning for Unsupervised Domain Adaptation of Time Series
 
 ### Loading and Preparing Benchmark Datasets
 First, create a folder and download the pre-processed versions of the datasets [WISDM](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/KJWE5B), [HAR](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/0SYHTZ), and [HHAR](https://researchdata.ntu.edu.sg/dataset.xhtml?persistentId=doi:10.21979/N9/OWDFXO). 
 
 In the same folder, you need to run [train_val_test_benchmark.ipynb](train_val_test_benchmark.ipynb) to create valid train-val-test splits (the downloaded datasets initially have only train-test splits). Further, this script will convert the datasets into desired format. This script will create the new versions of the datasets in *./processed_datasets* folder (path relative to the folder in which you initially downloaded the datasets).
-
-### Accessing ICU Datasets MIMIC-IV and AmsterdamUMCdb
-If you want to do experiments on MIMIC-IV and AmsterdamUMCdb, first you need to get permission for these datasets even though it is publicly available. 
-
-MIMIC-IV: Access details can be found [here](https://physionet.org/content/mimiciv/0.4/). 
-
-AmsterdamUCMdb: Access details can be found [here](https://amsterdammedicaldatascience.nl).
-
-### Loading ICU Datasets
-
-Once you have access the ICU dataset(s), you can load them with R. For this, you can follow the steps at [load_ICU_datasets](./load_ICU_datasets).
-
-### Preparing ICU Datasets
-
-This step converts the output from previous step into np.array format to be used in Python. For this, you can follow the steps at [prepare_ICU_datasets](./prepare_ICU_datasets).
 
 ### Baselines
 
